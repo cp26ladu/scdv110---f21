@@ -1,0 +1,82 @@
+--------------------------------------------------------------------------------
+Codebook for Social Explorer report ID: R12962782
+--------------------------------------------------------------------------------
+
+Contents
+    - Table Summary
+    - Data Dictionary
+    - Citation and Use
+
+
+--------------------------------------------------------------------------------
+Table Summary
+--------------------------------------------------------------------------------
+ 
+Survey:           Health Data 2019 Release
+Dataset:          Health Data 2019
+Tables:
+
+      1. Health Care Providers
+         Universe:  
+         Name:      T4
+         Variables:
+            T004_001:   Primary Care Physicians (PCP)
+            T004_002:   Mental Health Providers (MHP)
+            T004_003:   Dentists
+
+
+      2. Health Care Providers Rates
+         Universe:  
+         Name:      NV3
+         Variables:
+            NV003_001:   Primary Care Physicians (PCP) Rate per 100,000 Population
+            NV003_002:   Mental Health Providers (MHP) Rate per 100,000 Population
+            NV003_003:   Dentists Rate per 100,000 Population
+
+
+
+
+
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Variables 
+      FIPS:           FIPS
+      NAME:           Name of Area
+      QNAME:          Qualifying Name
+      NATION:         Nation
+      STATE:          State
+      COUNTY:         County
+      T004_001:       Primary Care Physicians (PCP)
+      T004_002:       Mental Health Providers (MHP)
+      T004_003:       Dentists
+      NV003_001:      Primary Care Physicians (PCP) Rate per 100,000 Population
+      NV003_002:      Mental Health Providers (MHP) Rate per 100,000 Population
+      NV003_003:      Dentists Rate per 100,000 Population
+
+
+
+
+--------------------------------------------------------------------------------
+Citation and Use of Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data
+  must cite it appropriately. The citation should include the following:
+
+	  www.socialexplorer.com
+	  New York City, NY: Social Explorer 2021
+
+
+* Citations should also include the URL for this report:
+
+    http://www.socialexplorer.com/pub/reportdata/HtmlResults.aspx?reportid=R12962782
+
+If you have any questions contact info@socialexplorer.com
